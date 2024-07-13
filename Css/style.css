@@ -1,0 +1,31 @@
+body{
+    background-color: wheat;
+}
+.background{
+    background-color: orange;
+}
+.row{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+span{
+    color: red;
+    margin-left: 5px;
+}
+.first{
+    float:right;
+}
+iframe{
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
